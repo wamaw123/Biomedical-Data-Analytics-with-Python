@@ -1,1 +1,44 @@
+## About Dataset
+
+This dataset contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. These features describe characteristics of the cell nuclei present in the image.
+
+The 3-dimensional space is described in the following reference: [K. P. Bennett and O. L. Mangasarian: "Robust Linear Programming Discrimination of Two Linearly Inseparable Sets," Optimization Methods and Software, 1, 1992, 23-34].
+
+You can access this dataset from the following sources:
+
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
+- [Kaggle Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?resource=download)
+- UW CS FTP Server: `ftp.cs.wisc.edu`, Path: `cd math-prog/cpo-dataset/machine-learn/WDBC/`
+
+### Attribute Information
+
+The dataset contains the following attributes:
+
+1) ID number
+2) Diagnosis (M = malignant, B = benign)
+3-32) Ten real-valued features computed for each cell nucleus:
+
+   a) Radius (mean of distances from center to points on the perimeter)
+   b) Texture (standard deviation of gray-scale values)
+   c) Perimeter
+   d) Area
+   e) Smoothness (local variation in radius lengths)
+   f) Compactness (perimeter^2 / area - 1.0)
+   g) Concavity (severity of concave portions of the contour)
+   h) Concave points (number of concave portions of the contour)
+   i) Symmetry
+   j) Fractal dimension ("coastline approximation" - 1)
+
+The mean, standard error, and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features. For instance, field 3 is Mean Radius, field 13 is Radius SE, field 23 is Worst Radius.
+
+All feature values are recoded with four significant digits.
+
+Missing attribute values: none
+
+### Class Distribution
+
+The class distribution in this dataset is as follows:
+- 357 benign
+- 212 malignant
+
 
