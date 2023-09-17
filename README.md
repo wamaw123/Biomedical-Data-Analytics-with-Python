@@ -20,8 +20,8 @@ This repository showcases a comprehensive 6-month journey through data analytics
 
 ### Week 2: Basic Statistical Modeling
 - **Objective:** Apply basic statistical models to understand relationships in the data.
-- **Tasks:** Correlation analysis, t-tests, and linear regression modeling.
-- **Dataset:** Breast Cancer dataset.
+- **Tasks:** Data exploration, statistical test selection using LLM and group comparison through hypothesis testing
+- **Dataset:** [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 
 ### Week 3: Data Visualization
 - **Objective:** Visualize data distributions and relationships.
