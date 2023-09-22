@@ -122,7 +122,7 @@ This repository showcases a comprehensive set of skills in data analytics and da
 - **Tasks:** Feature importance, SHAP values, and LIME.
 - **Dataset:** Heart Disease UCI.
 
-## Final Projects and Capstone
+## Capstone project
 
 ### Multi-omics Integration
 - **Objective:** Integrate data from multiple omics levels.
