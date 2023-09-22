@@ -1,6 +1,7 @@
-# Data Analytics with Python: A 6-Month Journey
+# Data Analytics with Python
+By: Abderrahim Benmoussa, Ph.D.
 
-This repository showcases a comprehensive 6-month journey through data analytics and data science, especially in the domain of biology and health. Each week, a unique project is highlighted, ranging from foundational data visualization to intricate machine learning techniques.
+This repository showcases a comprehensive set of skills in data analytics and data science, especially in the domain of biology and health through a unique project, ranging from foundational data visualization to intricate machine learning techniques.
 
 ## Table of Contents
 
